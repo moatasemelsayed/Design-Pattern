@@ -1,0 +1,21 @@
+CMakeFiles/CarCounter.elf.dir/main.cpp.obj:  \
+ C:\workspace\avrkit\designpattern\Factorymethod\main.cpp \
+  c:/winavr-20100110/lib/gcc/../../avr/include/avr/io.h \
+  c:/winavr-20100110/lib/gcc/../../avr/include/avr/sfr_defs.h \
+  c:/winavr-20100110/lib/gcc/../../avr/include/inttypes.h \
+  c:/winavr-20100110/lib/gcc/../../avr/include/stdint.h \
+  c:/winavr-20100110/lib/gcc/../../avr/include/avr/iom32.h \
+  c:/winavr-20100110/lib/gcc/../../avr/include/avr/portpins.h \
+  c:/winavr-20100110/lib/gcc/../../avr/include/avr/common.h \
+  c:/winavr-20100110/lib/gcc/../../avr/include/avr/version.h \
+  c:/winavr-20100110/lib/gcc/../../avr/include/avr/fuse.h \
+  c:/winavr-20100110/lib/gcc/../../avr/include/avr/lock.h \
+  c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h \
+  c:/winavr-20100110/lib/gcc/../../avr/include/util/delay_basic.h \
+  C:\workspace\avrkit\designpattern\Factorymethod\includes/STD_Types.hpp \
+  C:\workspace\avrkit\designpattern\Factorymethod\includes/Button.hpp \
+  C:\workspace\avrkit\designpattern\Factorymethod\includes/Utils.hpp \
+  C:\workspace\avrkit\designpattern\Factorymethod\includes/Buzzer.hpp \
+  C:\workspace\avrkit\designpattern\Factorymethod\includes/Ioutput.hpp \
+  C:\workspace\avrkit\designpattern\Factorymethod\includes/Led.hpp \
+  C:\workspace\avrkit\designpattern\Factorymethod\includes/OutputFactory.hpp

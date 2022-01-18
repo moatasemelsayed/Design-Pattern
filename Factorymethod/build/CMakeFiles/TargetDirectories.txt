@@ -1,0 +1,8 @@
+C:/workspace/avrkit/designpattern/Factorymethod/build/CMakeFiles/CarCounter.elf.dir
+C:/workspace/avrkit/designpattern/Factorymethod/build/CMakeFiles/flash.dir
+C:/workspace/avrkit/designpattern/Factorymethod/build/CMakeFiles/burn.dir
+C:/workspace/avrkit/designpattern/Factorymethod/build/CMakeFiles/edit_cache.dir
+C:/workspace/avrkit/designpattern/Factorymethod/build/CMakeFiles/rebuild_cache.dir
+C:/workspace/avrkit/designpattern/Factorymethod/build/src/CMakeFiles/HAL.dir
+C:/workspace/avrkit/designpattern/Factorymethod/build/src/CMakeFiles/edit_cache.dir
+C:/workspace/avrkit/designpattern/Factorymethod/build/src/CMakeFiles/rebuild_cache.dir

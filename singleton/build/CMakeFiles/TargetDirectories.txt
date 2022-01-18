@@ -1,0 +1,8 @@
+C:/workspace/avrkit/designpattern/singleton/build/CMakeFiles/CarCounter.elf.dir
+C:/workspace/avrkit/designpattern/singleton/build/CMakeFiles/flash.dir
+C:/workspace/avrkit/designpattern/singleton/build/CMakeFiles/burn.dir
+C:/workspace/avrkit/designpattern/singleton/build/CMakeFiles/edit_cache.dir
+C:/workspace/avrkit/designpattern/singleton/build/CMakeFiles/rebuild_cache.dir
+C:/workspace/avrkit/designpattern/singleton/build/src/CMakeFiles/HAL.dir
+C:/workspace/avrkit/designpattern/singleton/build/src/CMakeFiles/edit_cache.dir
+C:/workspace/avrkit/designpattern/singleton/build/src/CMakeFiles/rebuild_cache.dir
